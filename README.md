@@ -4,7 +4,7 @@ Repositório de códigos, dados derivados e resultados da dissertação de mestr
 
 Orientador: Prof. Dr. Erivelton Nonato de Santana. Coorientador: Prof. Dr. José Roberto de Araújo Fontoura.
 
-DOI (versão 1.0.1): [10.5281/zenodo.24358610](https://doi.org/10.5281/zenodo.24358610)
+DOI (versão 1.1.0): [10.5281/zenodo.24605888](https://doi.org/10.5281/zenodo.24605888). DOI de todas as versões: [10.5281/zenodo.24358609](https://doi.org/10.5281/zenodo.24358609). A versão 1.0.1 ([10.5281/zenodo.24358610](https://doi.org/10.5281/zenodo.24358610)) corresponde às etapas 1 a 7 e sustenta a dissertação e o artigo do ACDSA 2027.
 
 ## Objetivo
 
@@ -103,6 +103,6 @@ Código: MIT (arquivo `LICENSE`). Dados derivados e resultados: CC BY 4.0. Ao ut
 
 ## Como citar
 
-FIGUEIREDO, J. G. S. **O joelho sob carga**: aprendizado de máquina e lesão do ligamento cruzado anterior no futebol (códigos e dados). Versão 1.0.1. [S. l.]: Zenodo, 2026. DOI: https://doi.org/10.5281/zenodo.24358610.
+FIGUEIREDO, J. G. S. **O joelho sob carga**: aprendizado de máquina e lesão do ligamento cruzado anterior no futebol (códigos e dados). Versão 1.1.0. [S. l.]: Zenodo, 2026. DOI: https://doi.org/10.5281/zenodo.24605888.
 
 Consulte também o arquivo `CITATION.cff`.
